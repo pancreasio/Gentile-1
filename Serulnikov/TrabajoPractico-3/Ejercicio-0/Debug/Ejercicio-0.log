@@ -1,0 +1,17 @@
+﻿Compilación iniciada a las 24/09/2018 11:46:26.
+     1>Proyecto "C:\Users\Administrador\Desktop\Serulnikov\TrabajoPractico-3\Ejercicio-0\Ejercicio-0.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\Ejercicio-0.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         Todas las salidas están actualizadas.
+         Ejercicio-0.vcxproj -> C:\Users\Administrador\Desktop\Serulnikov\TrabajoPractico-3\Debug\Ejercicio-0.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\Ejercicio-0.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\Ejercicio-0.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Administrador\Desktop\Serulnikov\TrabajoPractico-3\Ejercicio-0\Ejercicio-0.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.03
