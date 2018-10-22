@@ -1,27 +1,17 @@
-﻿Compilación iniciada a las 08/10/2018 11:25:58.
-     1>Proyecto "C:\Users\Administrador\Desktop\xdd\gentile-1\Serulnikov\TrabajoPractico-5\Ejercicio-0\Ejercicio-0.vcxproj" en el nodo 2 (build destinos).
-     1>PrepareForBuild:
-         Creando directorio "C:\Users\Administrador\Desktop\xdd\gentile-1\Serulnikov\TrabajoPractico-5\Debug\".
-       InitializeBuildStatus:
+﻿Compilación iniciada a las 22/10/2018 9:47:42.
+     1>Proyecto "C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-5\Ejercicio-0\Ejercicio-0.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
          Se creará "Debug\Ejercicio-0.unsuccessfulbuild" porque se especificó "AlwaysCreate".
        ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DispElect.cpp "Ejer-0.cpp" Televisor.cpp
-         Televisor.cpp
-         Ejer-0.cpp
-         DispElect.cpp
-         Generando código...
+         Todas las salidas están actualizadas.
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrador\Desktop\xdd\gentile-1\Serulnikov\TrabajoPractico-5\Debug\Ejercicio-0.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Ejercicio-0.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrador\Desktop\xdd\gentile-1\Serulnikov\TrabajoPractico-5\Debug\Ejercicio-0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrador\Desktop\xdd\gentile-1\Serulnikov\TrabajoPractico-5\Debug\Ejercicio-0.lib" /MACHINE:X86 Debug\DispElect.obj
-         "Debug\Ejer-0.obj"
-         Debug\Televisor.obj
-         Ejercicio-0.vcxproj -> C:\Users\Administrador\Desktop\xdd\gentile-1\Serulnikov\TrabajoPractico-5\Debug\Ejercicio-0.exe
-       Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrador\Desktop\xdd\gentile-1\Serulnikov\TrabajoPractico-5\Debug\Ejercicio-0.exe;#1" /manifest "Debug\Ejercicio-0.exe.intermediate.manifest"
+         Todas las salidas están actualizadas.
+         Ejercicio-0.vcxproj -> C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-5\Debug\Ejercicio-0.exe
        FinalizeBuildStatus:
          Se eliminará el archivo "Debug\Ejercicio-0.unsuccessfulbuild".
          Aplicando tarea Touch a "Debug\Ejercicio-0.lastbuildstate".
-     1>Compilación del proyecto terminada "C:\Users\Administrador\Desktop\xdd\gentile-1\Serulnikov\TrabajoPractico-5\Ejercicio-0\Ejercicio-0.vcxproj" (build destinos).
+     1>Compilación del proyecto terminada "C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-5\Ejercicio-0\Ejercicio-0.vcxproj" (build destinos).
 
 Compilación correcta.
 
-Tiempo transcurrido 00:00:03.00
+Tiempo transcurrido 00:00:00.09

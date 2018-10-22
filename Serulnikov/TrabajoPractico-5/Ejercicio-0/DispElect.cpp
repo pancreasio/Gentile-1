@@ -7,7 +7,7 @@ DispElect::DispElect(bool encendido){
 	_encendido = encendido;
 }
 DispElect::~DispElect(){
-
+cout<<"se va a apagar";
 }
 void DispElect::encender(){
 	_encendido = !_encendido;

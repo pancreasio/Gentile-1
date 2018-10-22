@@ -3,13 +3,14 @@
 Televisor::Televisor(){
 	_canal = 2;
 	_brillo = 50;
+	cout<<"el Televisor ";
 }
 Televisor::Televisor(bool encendido, int canal,int brillo):DispElect(encendido){
 	_canal = canal;
 	_brillo = brillo;
 }
 Televisor::~Televisor(){
-	cout<<"el Televisor" <<endl;
+	cout<<"el Televisor ";
 }
 void Televisor::setCanal(int canal){
 	_canal = canal;
