@@ -1,0 +1,28 @@
+﻿Compilación iniciada a las 29/10/2018 11:43:00.
+     1>Proyecto "C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-6\Ejercicio-0\Ejercicio-0.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\Ejercicio-0.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Cuadrado.cpp "Ejer-0.cpp" Triangulo.cpp
+         Cuadrado.cpp
+         Generando código...
+         Compilando...
+         Triangulo.cpp
+         Ejer-0.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-6\Debug\Ejercicio-0.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Ejercicio-0.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-6\Debug\Ejercicio-0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-6\Debug\Ejercicio-0.lib" /MACHINE:X86 Debug\Cuadrado.obj
+         "Debug\Ejer-0.obj"
+         Debug\Triangulo.obj
+         LINK : no se encontró C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-6\Debug\Ejercicio-0.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+         Ejercicio-0.vcxproj -> C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-6\Debug\Ejercicio-0.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-6\Debug\Ejercicio-0.exe;#1" /manifest "Debug\Ejercicio-0.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\Ejercicio-0.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\Ejercicio-0.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Administrador\Desktop\gentile-1\Serulnikov\TrabajoPractico-6\Ejercicio-0\Ejercicio-0.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.43
