@@ -110,14 +110,14 @@ void setTitle(const char* title) {
 
 void marco(int x1, int y1, int x2, int y2){
 
-	for(int i1=1; i1 <=y2-y1+1; i1+=y2-y1){
-		for(int i2=1; i2<=x2-x1; i2++){
+	for(int i1=y1; i1 <=y2-y1+2; i1+=y2-y1){
+		for(int i2=x1; i2<=x2-x1; i2++){
 		gotoxy(i2,i1);
 		cout<<(char)205;
 		}
 	}
-	for(int i1=1; i1 <=x2-x1+1; i1+=x2-x1){
-		for(int i2=1; i2<=y2-y1; i2++){
+	for(int i1=x1; i1 <=x2-x1+1; i1+=x2-x1){
+		for(int i2=y1; i2<=y2-y1+1; i2++){
 		gotoxy(i1,i2);
 		cout<<(char)186;
 		}
