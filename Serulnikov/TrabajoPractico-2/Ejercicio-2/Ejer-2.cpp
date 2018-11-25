@@ -1,3 +1,14 @@
+/*fecha de inicio: 27/08
+
+Este ejercicio cuyo proyecto llamado Ejercicio-2 deberá escribir la clase
+Personaje cuyo diagrama de clase es el siguiente:
+El método dormir imprime "zzzzzzzzz"
+El método hablar imprime "bla bla bla bla"
+Probar la clase con 1 objeto Personaje compile, linkee y pruebe el
+ejercicio tal que muestre lo siguiente en pantalla.
+
+Julian Serulnikov
+*/
 #include "Personaje.h"
 #include <iostream>
 using namespace std;

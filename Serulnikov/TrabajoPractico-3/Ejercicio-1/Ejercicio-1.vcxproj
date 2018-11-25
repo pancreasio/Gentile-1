@@ -62,9 +62,11 @@
   <ItemGroup>
     <ClCompile Include="..\..\libreria\libreria.cpp" />
     <ClCompile Include="Ejer-1.cpp" />
+    <ClCompile Include="Juego.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\libreria\libreria.h" />
+    <ClInclude Include="Juego.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

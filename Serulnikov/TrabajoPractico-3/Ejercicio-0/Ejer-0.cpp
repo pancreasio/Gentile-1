@@ -1,7 +1,6 @@
 #include "../../libreria/libreria.h"
 #include <iostream>
 
-
 int _x;
 int _y;
 int _tecla;
